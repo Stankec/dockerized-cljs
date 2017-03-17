@@ -19,7 +19,7 @@ You will have to mount your application into the `/app` directory.
 Or if you want to dockerize your application:
 
 ```
-FROM stankec/cljs
+FROM stankec/dockerized-cljs
 
 COPY . .
 RUN lein cljsbuild once min
