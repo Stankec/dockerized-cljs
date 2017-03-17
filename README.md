@@ -7,7 +7,7 @@ Docker image for CLJS projects using [Leiningen](https://leiningen.org/)
 Add the image to your machine by running the following command:
 
 ```
-docker pull stankec/slanger
+docker pull stankec/dockerized-cljs
 ```
 
 Alternatively, visit docker.com for more ingormation about this project.
